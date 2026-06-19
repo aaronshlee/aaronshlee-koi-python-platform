@@ -1,0 +1,12 @@
+# Jupyter Book 목차 (Table of Contents)
+format: jb-book
+root: index
+options:
+  caption: KOI 파이썬 - 동적 계획법 (DP) 집중 과정
+
+parts:
+  - caption: 동적 계획법 (Dynamic Programming)
+    chapters:
+      - file: notebooks/01_DP_기초_개념과_피보나치
+      - file: notebooks/02_DP_기초_메모이제이션과_타럴레이션
+      - file: notebooks/03_DP_응용_LIS_최장증가수열
