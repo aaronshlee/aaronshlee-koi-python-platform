@@ -1,0 +1,1 @@
+$(cat /home/workdir/artifacts/koi-python-platform/koi-python-platform.zip | base64)
